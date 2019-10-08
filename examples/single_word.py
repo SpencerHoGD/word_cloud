@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-text = "square"
+text = "LOVE"
 
 x, y = np.ogrid[:300, :300]
 
